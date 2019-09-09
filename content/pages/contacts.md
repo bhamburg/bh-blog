@@ -1,7 +1,7 @@
 ---
 template: page
 title: Contact
-slug: contact
+slug: contacts
 draft: false
 ---
 
