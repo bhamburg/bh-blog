@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://bhamburg.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Brian Hamburg\'s Website',
+  subtitle: 'Web Developer & Jazz Banjoist',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-11699016-1',
   useKatex: false,
   menu: [
     {
@@ -25,21 +25,21 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Brian Hamburg',
+    photo: '/family-photo.jpg',
+    bio: 'Father of twins. Strummer of strings. Wrangler of the Web. Implementer of interfaces. Purveyor of pixels.',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'bhamburg@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'burgbits',
+      github: 'bhamburg',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'brianhamburg',
+      instagram: 'burgbits',
       line: '',
-      gitlab: '',
+      gitlab: 'bjh015',
       weibo: ''
     }
   }
