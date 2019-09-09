@@ -1,7 +1,7 @@
 ---
 template: page
 title: Contact me
-slug: contacts
+slug: pages/contacts
 draft: false
 ---
 Test
