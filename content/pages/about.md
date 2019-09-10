@@ -1,13 +1,13 @@
 ---
-title: "About me"
-template: "page"
-socialImage: "/family-photo.jpg"
+template: page
+title: About
+slug: about
+draft: true
 ---
+I’m a web developer with the [DICE Group at Jefferson](https://dicegrp.org), where I get to work with a talented and diverse team of technologists, designers, researchers, and writers to improve healthcare and education experiences across the greater Philadelphia region and beyond.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+![Summer Vacation, 2019](/family-photo.jpg "Summer Vacation, 2019")
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/family-photo.jpg)
+> _Summer Vacation, 2019_
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+When I’m not wrangling websites or strumming the old four-string, my other hobbies include reading about tech and philosophy, rooting for the Phillies and Eagles, and playing and collecting classic and modern video games on my various original consoles and custom-built gaming PC.
