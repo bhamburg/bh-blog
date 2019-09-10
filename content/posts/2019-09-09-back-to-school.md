@@ -3,21 +3,18 @@ template: post
 title: Back To School
 slug: back-to-school
 draft: false
-date: 2019-09-10T16:00:00.000Z
+date: 2019-09-09T16:00:00.000Z
 description: >-
   Forgive me, reader. It has been nearly a decade since my last blog post. Today
   represents a day of new beginnings for several important reasons. The most
   important of all is that my twin daughters start their first day of preschool
-  today. They have formally begun their lifelong process of learning. I’m so
-  excited for them and the new experiences they’re going to have and the friends
-  they will meet along the way. I’ll admit, I’m understandably a bit nervous as
-  well.
+  today. They have formally begun their own lifelong process of learning.
 category: personal
 tags:
   - learning
   - family
 ---
-Forgive me, reader. It has been nearly a decade since my last blog post. Today represents a day of new beginnings for several important reasons. The most important of all is that my twin daughters start their first day of preschool today. They have formally begun their lifelong process of learning. I’m so excited for them and the new experiences they’re going to have and the friends they will meet along the way. I’ll admit, I’m understandably a bit nervous as well.
+Forgive me, reader. It has been nearly a decade since my last blog post. Today represents a day of new beginnings for several important reasons. The most important of all is that my twin daughters start their first day of preschool today. They have formally begun their own lifelong process of learning. I’m so excited for them and the new experiences they’re going to have and the friends they will meet along the way. I’ll admit, I’m understandably a bit nervous as well.
 
 As anyone in my immediate family can tell you, I’ve had a love/hate relationship with school over the years. The best way I can briefly describe my own scholastic achievement is that of someone with great potential who is easily distracted. The same could be said for my career in web development and even music. On the one hand, I know my girls will be just fine since they have such a strong family support system in place, but on the other hand it’s absolutely terrifying watching my babies enter a world with so many threats and temptations. Yeah, I know they’re only 3-and-a-half, but time certainly isn’t slowing down.
 
@@ -30,8 +27,6 @@ That’s not to say I’m just posting a confessional today. I believe fatherhoo
 Career-wise, I’m in a really good spot right now. They say the best time to look for a new job is when you already have one, but I haven’t had a compelling reason to leave Jefferson in seven years and I find the work we do at DICE to be rewarding. However, I’ve also read “Who Moved My Cheese?” and I’m well-aware of the pitfalls of stagnation. After all, the “I” stands for “innovation” and there is constant pressure to deliver on that promise.
 
 ## What Do I Have To Say?
-
-
 
 ## Going Forward
 
