@@ -30,11 +30,13 @@ Career-wise, I’m in a really good spot right now. They say the best time to lo
 
 > What you have to say is unique and different from the stuff anyone else has to say. Even if you're talking about the same subject. You're going to approach the subject differently. You're going to cover a different amount of material than anyone else. You're going to give different examples. You're going to CONNECT with the audience in a different way than anyone else has.
 
-_Joe Eames, CEO of_ [_Thinkster.io_](https://thinkster.io)__
+_Joe Eames, CEO of_ [_Thinkster.io_](https://thinkster.io) 
 
 
 
 ## Going Forward
+
+Maybe someday I'll finish that masters degree. I do certainly intend to continue taking free and paid online courses for specific web technologies and become more of a subject matter expert in my field. Continuously coming across new problems, finding a solution, and sharing my findings here will be my 
 
 I want this to be a place where I can arrange my thoughts cohesively as both a benefit to myself and a benefit to anyone who finds what I have to say useful. As a former colleague once said, it’s good for “one’s own edification” to list accomplishments and discuss what we learn along the way. I want this blog to be a reflection of my own intrinsic motivation to improve my skills in the various fields of study that I find interesting and to advocate for those interests. At the very least, my intention here is to set a good example for my daughters to use our limited time here on this planet constructively.
 
