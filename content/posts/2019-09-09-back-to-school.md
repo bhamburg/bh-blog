@@ -2,7 +2,7 @@
 template: post
 title: Back To School
 slug: back-to-school
-draft: true
+draft: false
 date: 2019-09-10T16:00:00.000Z
 description: >-
   Forgive me, reader. It has been nearly a decade since my last blog post. Today
