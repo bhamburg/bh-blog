@@ -3,7 +3,7 @@ template: post
 title: Back To School
 slug: back-to-school
 draft: false
-date: 2019-09-09T16:00:00.000Z
+date: 2019-09-10T16:00:00.000Z
 description: >-
   Forgive me, reader. It has been nearly a decade since my last blog post. Today
   represents a day of new beginnings for several important reasons. The most
@@ -27,6 +27,12 @@ That’s not to say I’m just posting a confessional today. I believe fatherhoo
 Career-wise, I’m in a really good spot right now. They say the best time to look for a new job is when you already have one, but I haven’t had a compelling reason to leave Jefferson in seven years and I find the work we do at DICE to be rewarding. However, I’ve also read “Who Moved My Cheese?” and I’m well-aware of the pitfalls of stagnation. After all, the “I” stands for “innovation” and there is constant pressure to deliver on that promise.
 
 ## What Do I Have To Say?
+
+> What you have to say is unique and different from the stuff anyone else has to say. Even if you're talking about the same subject. You're going to approach the subject differently. You're going to cover a different amount of material than anyone else. You're going to give different examples. You're going to CONNECT with the audience in a different way than anyone else has.
+
+_Joe Eames, CEO of_ [_Thinkster.io_](https://thinkster.io)__
+
+
 
 ## Going Forward
 
