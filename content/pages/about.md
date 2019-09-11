@@ -1,7 +1,7 @@
 ---
-title: "About me"
+title: "About"
 template: "page"
-socialImage: "/family-photo.jpg"
+socialImage: "/family-photo.jpg" 
 ---
 
 I’m a web developer with the [DICE Group at Jefferson](https://dicegrp.org), where I get to work with a talented and diverse team of technologists, designers, researchers, and writers to improve healthcare and education experiences across the greater Philadelphia region and beyond.
